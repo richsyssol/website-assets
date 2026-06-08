@@ -4,3 +4,5 @@ https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/envichem_video_new.mp
 https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/miss_divya_chaudhari.mp4
 
 https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/mr_avinash_kharote.mp4
+
+https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/mr_rahul_dindorkar.mp4
