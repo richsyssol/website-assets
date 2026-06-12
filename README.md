@@ -10,3 +10,5 @@ https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/mr_rahul_dindorkar.mp
 https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/arnav_patil_sir.JPG
 
 https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/meet_our_mentor.jpeg
+
+https://cdn.jsdelivr.net/gh/richsyssol/website-assets@main/mr_arnav_patil_sir.png
